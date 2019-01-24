@@ -8,9 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "release-it": {
-    "github": {
-      "release": true
-    }
-  }
+  "release-it": {}
 }
